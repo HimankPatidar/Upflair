@@ -1,0 +1,210 @@
+##import keyword
+##print(keyword.kwlist)
+##print(len(keyword.kwlist))
+####print("Hello World")
+###Operators
+###Arithmaric Operator
+###// = floor division
+### ** = exponential (power)
+##
+###keywordkeyword
+
+
+##Relational Operator(>,<,==,!=, <=, >=)
+##assignment operator - (=, +=, -=, *=
+##+= ------ x+=3 -------- 
+#### Logical Operator(and,or,not)
+
+##bitwise Operator ----- (&, ||,^, .....)
+##Identity Operator ----- (is, isnot)
+## Membership Operators -------- (in, not in)
+
+
+
+#DataType
+
+##Sequence Data Type :- list, string, Tuple,
+####list - []   mutable
+####tuple = () immutable
+####set = {} immutable
+
+
+
+
+Python 3.12.3 (tags/v3.12.3:f6650f9, Apr  9 2024, 14:05:25) [MSC v.1938 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+print("Hello World")
+Hello World
+a="Hello"
+print(a)
+Hello
+"hello World"
+'hello World'
+a="Hello World"
+a
+'Hello World'
+a="Hello"
+a
+'Hello'
+
+================================================= RESTART: C:/Users/patid/OneDrive/Desktop/upflair/1.py =================================================
+
+================================================= RESTART: C:/Users/patid/OneDrive/Desktop/upflair/1.py =================================================
+Hello World
+
+================================================= RESTART: C:/Users/patid/OneDrive/Desktop/upflair/1.py =================================================
+4//3
+1
+4%2
+0
+7//2
+3
+4**2
+16
+4**3
+64
+3* 'Hello'
+'HelloHelloHello'
+
+================================================= RESTART: C:/Users/patid/OneDrive/Desktop/upflair/1.py =================================================
+<module 'keyword' from 'C:\\Python312\\Lib\\keyword.py'>
+
+================================================= RESTART: C:/Users/patid/OneDrive/Desktop/upflair/1.py =================================================
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+
+================================================= RESTART: C:/Users/patid/OneDrive/Desktop/upflair/1.py =================================================
+['False', 'None', 'True', 'and', 'as', 'assert', 'async', 'await', 'break', 'class', 'continue', 'def', 'del', 'elif', 'else', 'except', 'finally', 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not', 'or', 'pass', 'raise', 'return', 'try', 'while', 'with', 'yield']
+35
+2=3
+SyntaxError: cannot assign to literal here. Maybe you meant '==' instead of '='?
+2==3
+False
+2=3
+SyntaxError: cannot assign to literal here. Maybe you meant '==' instead of '='?
+2!=3
+True
+2>=3
+False
+_ = 3
+
+
+
+print(_)]
+SyntaxError: unmatched ']'
+print(_)
+3
+2+=3
+SyntaxError: 'literal' is an illegal expression for augmented assignment
+x=4
+x += 5
+x
+9
+
+
+
+
+2<3 and 3>2
+True
+2<3 and 3<2
+False
+2<3 or 3<2
+True
+2<3 not 3<2
+SyntaxError: invalid syntax
+2=3 not 3<2
+SyntaxError: cannot assign to literal here. Maybe you meant '==' instead of '='?
+2==3 not 3<2
+SyntaxError: invalid syntax
+23 & 3
+3
+23 || 3
+SyntaxError: invalid syntax
+23 && 3
+SyntaxError: invalid syntax
+x=3
+y-5
+Traceback (most recent call last):
+  File "<pyshell#41>", line 1, in <module>
+    y-5
+NameError: name 'y' is not defined
+y=5
+x is y
+False
+x is not y
+True
+x= 6
+x= [1,2,3]
+4 in x
+False
+4 not in x
+True
+1 in x
+True
+"Hello" in x
+False
+X= 'rAvAn'
+type(x)
+<class 'list'>
+x = 'rAvAn'
+type(x)
+<class 'str'>
+2=3
+SyntaxError: cannot assign to literal here. Maybe you meant '==' instead of '='?
+2==3
+False
+x = 'rAvAn'
+type(x)
+<class 'str'>
+len(x)]
+SyntaxError: unmatched ']'
+len(x)
+5
+x[1]
+'A'
+x[4]
+'n'
+x[1] = "R"
+Traceback (most recent call last):
+  File "<pyshell#63>", line 1, in <module>
+    x[1] = "R"
+TypeError: 'str' object does not support item assignment
+x[1] = 'R'
+Traceback (most recent call last):
+  File "<pyshell#64>", line 1, in <module>
+    x[1] = 'R'
+TypeError: 'str' object does not support item assignment
+x= [1,2,3]
+type(x)
+<class 'list'>
+x[1]
+2
+x[1] = 5
+x[1]
+5
+x
+[1, 5, 3]
+x = (1,3,5)
+x
+(1, 3, 5)
+type(x)
+<class 'tuple'>
+x[1]
+3
+x[1] = 4
+Traceback (most recent call last):
+  File "<pyshell#75>", line 1, in <module>
+    x[1] = 4
+TypeError: 'tuple' object does not support item assignment
+x= {1,2,3,4,5,6,8}
+type(x)
+<class 'set'>
+x
+{1, 2, 3, 4, 5, 6, 8}
+x[1] = 4
+Traceback (most recent call last):
+  File "<pyshell#79>", line 1, in <module>
+    x[1] = 4
+TypeError: 'set' object does not support item assignment
+x= {1,2,3,3,3,4,5,6,6,7,7,89,9,9,6544,3,}
+x
+{1, 2, 3, 4, 5, 6, 7, 9, 6544, 89}
