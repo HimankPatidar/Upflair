@@ -1,1 +1,1 @@
-###take day2 as day1 
+#take day2 as day1 and so on
