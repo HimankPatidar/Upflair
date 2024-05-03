@@ -1,0 +1,2 @@
+#3D DIMENTISONAL
+3DIMENSION == 3D Array in numpy
