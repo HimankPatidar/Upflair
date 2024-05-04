@@ -1,0 +1,90 @@
+bike_name,price,city,kms_driven,owner,age,power,brand
+TVS Star City Plus Dual Tone 110cc,35000.0,Ahmedabad,17654.0,First Owner,3.0,110.0,TVS
+Mahindra Centuro NXT 110cc,28000.0,Jaipur,45000.0,First Owner,2.0,110.0,Mahindra
+Bajaj CT 100 100cc,30000.0,Noida,8250.0,First Owner,3.0,100.0,Bajaj
+Hero Splendor Plus Kick Alloy 100cc,40000.0,Delhi,9000.0,First Owner,3.0,100.0,Hero
+Bajaj V15 150cc POWER UP,35000.0,Mumbai,26000.0,First Owner,2.0,150.0,Bajaj
+Honda Dream Neo 110cc,36500.0,Delhi,9000.0,First Owner,3.0,110.0,Honda
+TVS Sport 100cc,34000.0,Delhi,8048.0,First Owner,3.0,100.0,TVS
+Bajaj Platina  Alloy ES-100cc,30000.0,Faridabad,15059.0,First Owner,3.0,100.0,Bajaj
+TVS Sport 100cc,34000.0,Delhi,8048.0,First Owner,3.0,100.0,TVS
+Bajaj Platina  Alloy ES-100cc,30000.0,Faridabad,15059.0,First Owner,3.0,100.0,Bajaj
+Bajaj Discover 110cc,35000.0,Faridabad,7285.0,First Owner,3.0,110.0,Bajaj
+Hero HF Deluxe self Alloy 100cc,35000.0,Ghaziabad,16432.0,First Owner,3.0,100.0,Hero
+Bajaj Discover 125cc Disc,39000.0,Faridabad,9923.0,First Owner,2.0,125.0,Bajaj
+Bajaj Discover 125cc Disc,39000.0,Faridabad,9923.0,First Owner,2.0,125.0,Bajaj
+Hero Passion Pro i3S Alloy 100cc,39799.0,Khalilabad,14500.0,First Owner,3.0,100.0,Hero
+Bajaj CT 100 ES Alloy,39000.0,Faridabad,2564.0,First Owner,2.0,100.0,Bajaj
+Bajaj Platina  Alloy ES-100cc,39000.0,Faridabad,12193.0,First Owner,2.0,100.0,Bajaj
+Hero Passion Pro i3S Alloy 100cc,39799.0,Khalilabad,14500.0,First Owner,3.0,100.0,Hero
+Bajaj Platina  Alloy ES-100cc,39000.0,Faridabad,12193.0,First Owner,2.0,100.0,Bajaj
+Bajaj CT 100 100cc,32000.0,Faridabad,19808.0,First Owner,3.0,100.0,Bajaj
+Bajaj Platina  Alloy ES-100cc,38000.0,Faridabad,12692.0,First Owner,2.0,100.0,Bajaj
+Bajaj Platina  Alloy ES-100cc,38000.0,Faridabad,11047.0,First Owner,3.0,100.0,Bajaj
+Hero HF Deluxe self Alloy 100cc,40000.0,Faridabad,7788.0,First Owner,3.0,100.0,Hero
+Bajaj Platina  Alloy ES-100cc,38000.0,Faridabad,13170.0,First Owner,3.0,100.0,Bajaj
+Bajaj Platina 100cc,39000.0,Faridabad,8491.0,First Owner,2.0,100.0,Bajaj
+TVS Sport 100cc,39900.0,Bangalore,15000.0,First Owner,3.0,100.0,TVS
+TVS Victor 110cc,40000.0,Chennai,12530.0,First Owner,3.0,110.0,TVS
+Bajaj Platina 100cc ComforTec Alloy,35599.0,Gurgaon,14616.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 100cc,27000.0,Ludhiana,23000.0,First Owner,3.0,100.0,Bajaj
+Hero Passion Xpro 110cc,39000.0,Faridabad,12457.0,First Owner,3.0,110.0,Hero
+Bajaj CT 100 100cc,33000.0,Faridabad,12992.0,First Owner,3.0,100.0,Bajaj
+Bajaj Platina  Alloy ES-100cc,32000.0,Faridabad,34859.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 ES Alloy,32000.0,Faridabad,12000.0,First Owner,2.0,100.0,Bajaj
+Bajaj Platina  Alloy ES-100cc,32000.0,Faridabad,34859.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 ES Alloy,32000.0,Faridabad,12000.0,First Owner,2.0,100.0,Bajaj
+Bajaj Platina 100cc ComforTec Alloy,35599.0,Gurgaon,14616.0,First Owner,3.0,100.0,Bajaj
+Hero Passion Xpro 110cc,39000.0,Faridabad,12457.0,First Owner,3.0,110.0,Hero
+TVS Sport 100cc,32000.0,Faridabad,15820.0,First Owner,3.0,100.0,TVS
+Hero Passion Pro i3S Alloy 100cc,36500.0,Delhi,17400.0,First Owner,3.0,100.0,Hero
+Hero Splendor Plus 100cc,35000.0,Faridabad,11197.0,First Owner,3.0,100.0,Hero
+Bajaj CT 100 100cc,27000.0,Ludhiana,23000.0,First Owner,3.0,100.0,Bajaj
+Bajaj Platina  Alloy ES-100cc,38000.0,Faridabad,11408.0,First Owner,3.0,100.0,Bajaj
+Bajaj Discover 110cc,33000.0,Faridabad,13478.0,First Owner,3.0,110.0,Bajaj
+Bajaj Platina Alloy ES 100cc,37000.0,Faridabad,17663.0,First Owner,3.0,100.0,Bajaj
+Bajaj Discover 125cc,36000.0,Faridabad,12000.0,First Owner,3.0,125.0,Bajaj
+Bajaj CT 100 ES Alloy,35000.0,Faridabad,33505.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 100cc,34000.0,Faridabad,9660.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 100cc,33000.0,Faridabad,15127.0,First Owner,3.0,100.0,Bajaj
+Bajaj Discover 110cc,39000.0,Raigarh(mh),6000.0,First Owner,3.0,110.0,Bajaj
+TVS Radeon 110cc Drum SBT,38000.0,Delhi,21249.0,First Owner,3.0,110.0,TVS
+Hero HF Deluxe Eco 100cc,38000.0,Faridabad,5511.0,First Owner,3.0,100.0,Hero
+Hero HF Deluxe Eco 100cc,35500.0,Faridabad,11824.0,First Owner,3.0,100.0,Hero
+Bajaj Platina 110 CBS,39500.0,Faridabad,14268.0,First Owner,2.0,110.0,Bajaj
+Bajaj Platina  Alloy ES-100cc,38000.0,Faridabad,11408.0,First Owner,3.0,100.0,Bajaj
+Bajaj Discover 110cc,33000.0,Faridabad,13478.0,First Owner,3.0,110.0,Bajaj
+Bajaj CT 100 100cc,33000.0,Faridabad,15127.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 KS Alloy,22000.0,Delhi,13496.0,First Owner,3.0,100.0,Bajaj
+TVS Sport 100cc,38000.0,Noida,8718.0,First Owner,3.0,100.0,TVS
+Bajaj Discover 125cc,30000.0,Faridabad,13008.0,First Owner,3.0,125.0,Bajaj
+Bajaj CT 100 ES Alloy,36000.0,Chennai,17652.0,First Owner,3.0,100.0,Bajaj
+Hero HF Deluxe Eco 100cc,35000.0,Faridabad,20928.0,First Owner,3.0,100.0,Hero
+Bajaj Platina  Alloy ES-100cc,32000.0,Faridabad,13187.0,First Owner,3.0,100.0,Bajaj
+Bajaj V15 150cc,35500.0,Gurgaon,15047.0,First Owner,3.0,150.0,Bajaj
+TVS Sport 100cc,34000.0,Jaipur,4474.0,First Owner,3.0,100.0,TVS
+Bajaj CT 100 100cc,32000.0,Faridabad,14118.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 100cc,29000.0,Faridabad,15369.0,First Owner,3.0,100.0,Bajaj
+Bajaj Platina  Alloy ES-100cc,38000.0,Gurgaon,66731.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 100cc,36400.0,Ludhiana,6000.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 ES Alloy,34000.0,Faridabad,18672.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 Spoke,34000.0,Jaipur,10841.0,First Owner,3.0,100.0,Bajaj
+Bajaj CT 100 100cc,35000.0,Gurgaon,6541.0,First Owner,3.0,100.0,Bajaj
+Hero HF Deluxe Eco 100cc,35000.0,Faridabad,20930.0,First Owner,3.0,100.0,Hero
+Honda Livo 110cc,40000.0,Faridabad,10637.0,First Owner,3.0,110.0,Honda
+Bajaj Platina 100cc,38000.0,Faridabad,15383.0,First Owner,2.0,100.0,Bajaj
+Hero HF Deluxe Eco 100cc,36000.0,Gurgaon,12561.0,First Owner,3.0,100.0,Hero
+Bajaj Platina  Alloy ES-100cc,35000.0,Faridabad,10430.0,First Owner,3.0,100.0,Bajaj
+Hero HF Deluxe self Alloy 100cc,39500.0,Faridabad,5448.0,First Owner,2.0,100.0,Hero
+Bajaj Discover 125cc,40000.0,Faridabad,12808.0,First Owner,3.0,125.0,Bajaj
+Bajaj Discover 125ST,35000.0,Delhi,13146.0,First Owner,3.0,125.0,Bajaj
+Bajaj V15 150cc,35500.0,Gurgaon,15047.0,First Owner,3.0,150.0,Bajaj
+Bajaj Discover 125cc,30000.0,Faridabad,13008.0,First Owner,3.0,125.0,Bajaj
+TVS Sport 100cc,34000.0,Jaipur,4474.0,First Owner,3.0,100.0,TVS
+Bajaj Platina 100cc,38000.0,Faridabad,15383.0,First Owner,2.0,100.0,Bajaj
+Bajaj CT 100 ES Alloy,38500.0,Faridabad,4877.0,First Owner,2.0,100.0,Bajaj
+Bajaj CT 100 100cc,27000.0,Faridabad,22115.0,First Owner,3.0,100.0,Bajaj
+Hero HF Deluxe Eco 100cc,35000.0,Faridabad,18303.0,First Owner,3.0,100.0,Hero
+TVS Sport 100cc,32000.0,Gurgaon,23000.0,First Owner,3.0,100.0,TVS
+Bajaj CT 100 KS Alloy,40000.0,Chandigarh,1501.0,First Owner,2.0,100.0,Bajaj
+Bajaj Platina 100cc ComforTec Alloy,39600.0,Ahmedabad,9000.0,First Owner,3.0,100.0,Bajaj
