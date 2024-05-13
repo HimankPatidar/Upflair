@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Submitted Data</title>
+</head>
+<style>
+    body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2 {
+    margin-top: 0;
+    color: #333;
+}
+
+p {
+    margin: 10px 0;
+    color: #666;
+}
+
+/* Style the data fields */
+.data-field {
+    margin-bottom: 20px;
+}
+
+.data-field label {
+    font-weight: bold;
+}
+
+.data-field p {
+    margin-top: 5px;
+    font-weight: normal;
+}
+
+</style>
+<body>
+    <h2>Submitted Data</h2>
+    <p>Profession: {{ my_data['user_profession'] }}</p>
+    <p>Name: {{ my_data['user_name'] }}</p>
+    <p>Email: {{ my_data['user_email'] }}</p>
+    <p>Password: {{ my_data['user_password'] }}</p>
+</body>
+</html>
